@@ -35,16 +35,16 @@ class _NoteEditorScreenState extends State<NoteEditorScreen> {
         padding: EdgeInsets.all(16),
         child: Column(
           children: [
-            TextField(controller: titleController, decoration: InputDecoration(hintText: "Title")),
+            TextField(controller: titleController, decoration: InputDecoration(hintText: "Tiêu đề")),
             SizedBox(height: 10),
             TextField(
               controller: contentController,
               maxLines: 5,
-              decoration: InputDecoration(hintText: "Content"),
+              decoration: InputDecoration(hintText: "Nội dung"),
             ),
             SizedBox(height: 20),
             ElevatedButton(
-              child: Text("Save"),
+              child: Text("Lưu"),
                 onPressed: () async {
                   if (titleController.text.isEmpty) return;
 

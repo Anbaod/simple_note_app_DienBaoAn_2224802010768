@@ -9,7 +9,7 @@ class HomePage extends StatelessWidget {
     final provider = Provider.of<NoteProvider>(context);
 
     return Scaffold(
-      appBar: AppBar(title: Text("Notes")),
+      appBar: AppBar(title: Text("Ghi chú")),
       body: ListView.builder(
         itemCount: provider.notes.length,
         itemBuilder: (context, index) {
