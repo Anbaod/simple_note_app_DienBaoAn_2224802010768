@@ -1,17 +1,4 @@
 # simple_note_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="286" height="636" alt="image" src="https://github.com/user-attachments/assets/9d7dcee0-ef4e-4ab8-b241-ec345d5712d3" />
+<img width="290" height="641" alt="image" src="https://github.com/user-attachments/assets/7852851d-4108-4ac7-8e7b-ef4f0e7054d9" />
+<img width="288" height="616" alt="image" src="https://github.com/user-attachments/assets/d190bed6-2c2b-4adc-98a5-c435a7add6ad" />
